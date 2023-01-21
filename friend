@@ -1,2 +1,12 @@
-<head> sammy <head>
-<body> sammy </body>
+<html>
+<head>
+    <title>code css</title>
+</head>
+<body>
+ <h1>
+    <a href="index2.html">กรอกชื่อของท่านผู้เจริญ</a>
+ <a href="index.html">หน้าหลัก</a>   
+</h1>
+
+</body>
+</html>
